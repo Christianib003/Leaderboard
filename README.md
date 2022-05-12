@@ -13,7 +13,7 @@ In this project, I built an application that displays and stores data input from
 - WEBPACK
 
 ## Live Demo
-
+ [Live Demo link](https://christianib003.github.io/Leaderboard/)
 ## Authors
 👤 **Author1**
 
