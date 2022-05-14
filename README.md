@@ -3,7 +3,7 @@
 # Leaderboard
 In this project, I built an application that displays and stores data input from the game results of the user. 
 
-![image](https://user-images.githubusercontent.com/91727952/168264632-e40d1eb8-4ebd-4f3c-8741-4d3b50f5edb3.png)
+![image](https://user-images.githubusercontent.com/91727952/168418086-6c101035-a985-41a0-a8fa-ce5f94a78e08.png)
 
 ## Built with 
 
