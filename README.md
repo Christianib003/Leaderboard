@@ -12,6 +12,13 @@ In this project, I built an application that displays and stores data input from
 - JAVASCRIPT
 - WEBPACK
 
+## Get started
+
+- git clone https://github.com/Christianib003/Leaderboard.git
+- in your terminal, type "npm install" to install node modules.
+- in your terminal, type "npm start" to bundle and start your project.
+- open live server.
+
 ## Live Demo
  [Live Demo link](https://christianib003.github.io/Leaderboard/)
 ## Authors
